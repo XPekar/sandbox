@@ -1,6 +1,28 @@
 ## 🔗 Direct Download Links
 > Click on any link below to start downloading directly.<br><br/>
 
+
+### 📅 2026-05-15 15:45 IR
+- 🗜️ [Affinity-3.0.2-x86_64.7z.001](https://github.com/XPekar/sandbox/raw/main/dl/Affinity-3.0.2-x86_64.7z.001) `95.0MB`
+
+- 🗜️ [Affinity-3.0.2-x86_64.7z.002](https://github.com/XPekar/sandbox/raw/main/dl/Affinity-3.0.2-x86_64.7z.002) `95.0MB`
+
+- 🗜️ [Affinity-3.0.2-x86_64.7z.003](https://github.com/XPekar/sandbox/raw/main/dl/Affinity-3.0.2-x86_64.7z.003) `95.0MB`
+
+- 🗜️ [Affinity-3.0.2-x86_64.7z.004](https://github.com/XPekar/sandbox/raw/main/dl/Affinity-3.0.2-x86_64.7z.004) `95.0MB`
+
+- 🗜️ [Affinity-3.0.2-x86_64.7z.005](https://github.com/XPekar/sandbox/raw/main/dl/Affinity-3.0.2-x86_64.7z.005) `95.0MB`
+
+- 🗜️ [Affinity-3.0.2-x86_64.7z.006](https://github.com/XPekar/sandbox/raw/main/dl/Affinity-3.0.2-x86_64.7z.006) `95.0MB`
+
+- 🗜️ [Affinity-3.0.2-x86_64.7z.007](https://github.com/XPekar/sandbox/raw/main/dl/Affinity-3.0.2-x86_64.7z.007) `95.0MB`
+
+- 🗜️ [Affinity-3.0.2-x86_64.7z.008](https://github.com/XPekar/sandbox/raw/main/dl/Affinity-3.0.2-x86_64.7z.008) `95.0MB`
+
+- 🗜️ [Affinity-3.0.2-x86_64.7z.009](https://github.com/XPekar/sandbox/raw/main/dl/Affinity-3.0.2-x86_64.7z.009) `95.0MB`
+
+---
+
 ### 📅 2026-05-14 13:52 IR
 
 - 📱 [PsiphonPro_v464.zip](https://github.com/nscl5/dl/raw/main/dl/PsiphonPro_v464.zip) `25MB`
