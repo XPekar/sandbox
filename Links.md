@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-16 02:07 IR
+- 🗜️ [kdenlive-26.04.1.7z.001](https://github.com/XPekar/sandbox/raw/main/dl/kdenlive-26.04.1.7z.001) `95.0MB`
+
+- 🗜️ [kdenlive-26.04.1.7z.002](https://github.com/XPekar/sandbox/raw/main/dl/kdenlive-26.04.1.7z.002) `32.6MB`
+
+---
+
+
 ### 📅 2026-05-15 15:45 IR
 - 🗜️ [Affinity-3.0.2-x86_64.7z.001](https://github.com/XPekar/sandbox/raw/main/dl/Affinity-3.0.2-x86_64.7z.001) `95.0MB`
 
